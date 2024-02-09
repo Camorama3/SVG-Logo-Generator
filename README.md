@@ -28,7 +28,6 @@ Cameron Fair, Stack Overflow, Reddit, ChatGPT, Tabnine, W3, MDN, and Edx Boot Ca
 
 [![License](https://img.shields.io/badge/License-LCS-brightgreen.svg)](https://opensource.org/licenses/LCS)
 This application is covered under the [LCS](https://opensource.org/licenses/LCS) license.
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
 
 ## Tests
 
