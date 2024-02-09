@@ -4,7 +4,7 @@
 
 This application generates an SVG logo when the index.js file is ran using node. This was a great exercise in helping me understand how to implement tests using OOP (Object Oriented Programming) for my program. I'm also understanding more about npm, node, and how files reference and read from one another, and work together to produce a functioning application
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
