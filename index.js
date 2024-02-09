@@ -46,7 +46,7 @@ function generateSVG(text, textColor, shape, color) {
 
     switch (shape) {
         case 'circle':
-            shapeSVG = 'circle cx="300" cy="200" r="50" ';
+            shapeSVG = 'circle cx="150" cy="100" r="50" ';
             break;
         case 'triangle':
             shapeSVG = 'polygon points="150,50 100,150 200,150" ';
